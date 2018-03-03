@@ -1,9 +1,9 @@
 {
 	"extensionName": "Seeed Grove Starter Kit (Arduino Mode Only)",
-	"description": "A Demo Extension for Seeed Grove Arduino Extension",
+	"description": "Seeed Grove Starter Kit functions for MakeBlock (Arduino)",
 	"version": "1.0.1",
 	"author": "Pieter Buur(pfbuur@protonmail.com) combination and extension (lcd/temp/servo) of the original Seeed Grove extension by Wangyu(wangyu@makeblock.cc) and 'smile' extension by Arne Bernin (arne@alamut.de)",
-	"homepage": "http://www.mblock.cc/posts/create-extensions-for-mblock",
+	"homepage": "https://github.com/pfbuur/mblock_grove_starterkit",
 	"sort":0,
 	"javascriptURL":"js/demo.js",
   	"firmware":"1.0",
